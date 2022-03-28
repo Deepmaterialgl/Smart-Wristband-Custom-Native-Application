@@ -6,4 +6,4 @@ The most important components in a fitness tracker are the numerous sensors used
 
 All components are fully integrated into the wristband and the final product should be something comfortable to wear. Adhesive solutions are often used for the assembly of these components. Below you'll find an overview of the most common applications for fitness trackers and wristbands:
 
-[DeepMaterialArabic] (htps://deepmaterialar.com/)
+Source: [DeepMaterialArabic](htps://deepmaterialar.com/)
